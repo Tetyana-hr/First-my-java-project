@@ -48,6 +48,9 @@ public class HW3 {
             System.out.println("Variable a is " + (a) );
         };
 
+
+
+
     };
 };
 
