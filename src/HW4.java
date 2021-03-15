@@ -33,6 +33,11 @@ public class HW4 {
             };
         };
 
+        System.out.println("\nTask3_2_another_way\n");
+        for(int i = 40; i < 61;i = i + 4){
+            System.out.println(i);
+        };
+
         System.out.println("\nADD_TASK1\n");
         int len = 10;
         for (int i = 0 ; i < 10 ; i++){
